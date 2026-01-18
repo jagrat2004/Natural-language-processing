@@ -1,4 +1,4 @@
-# NLP (Natural Language Processing) Learning Repository
+# NLP (Natural Language Processing)
 
 A comprehensive collection of Jupyter notebooks and projects demonstrating Natural Language Processing concepts, techniques, and real-world applications using Python and NLTK/scikit-learn libraries.
 
@@ -199,24 +199,7 @@ Multiple implementations of SMS spam detection:
 
 ---
 
-## 🚀 Learning Path
 
-### Beginner Level
-1. Start with tokenization (Notebook 4)
-2. Learn stopword removal (Notebook 7)
-3. Explore stemming and lemmatization (Notebooks 5-6)
-
-### Intermediate Level
-4. POS tagging (Notebook 8)
-5. Named Entity Recognition (Notebook 9)
-6. Bag of Words vectorization (Notebook 15)
-7. TF-IDF technique (Notebook 16)
-
-### Advanced Level
-8. Word2Vec embeddings (Notebook 26)
-9. Complete projects with multiple techniques (Notebooks 27, 27.2, 28-29, 30-31)
-
----
 
 ## 💡 Key Concepts Covered
 
@@ -267,18 +250,6 @@ Analysis & Insights
 
 ---
 
-## 📈 Expected Outcomes
-
-After completing this repository, you will:
-- ✅ Understand fundamental NLP concepts and techniques
-- ✅ Implement text preprocessing pipelines
-- ✅ Convert text to numerical features using multiple methods
-- ✅ Build and train text classification models
-- ✅ Perform sentiment analysis on real datasets
-- ✅ Compare different feature representation techniques
-- ✅ Evaluate and optimize NLP models
-
----
 
 ## 🔧 Usage Instructions
 
@@ -308,16 +279,5 @@ pip install nltk scikit-learn pandas numpy gensim matplotlib seaborn
 
 ---
 
-## 🎓 Educational Value
 
-This repository is ideal for:
-- Students learning NLP fundamentals
-- Data scientists exploring text mining techniques
-- Professionals transitioning into NLP
-- Those building text classification systems
-- Practitioners in sentiment analysis and opinion mining
-
----
-
-**Last Updated:** January 2026
-**Repository Type:** Educational - NLP Learning & Implementation
+**Build with ❤️ by Jagrat Agrawal** 
